@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1vEFSRjDi8mfyEZAS5Z6bfdGBA4A-BLQE/edit?usp=sh
 https://docs.google.com/document/d/12Y7W2foJE3u854VXLfJ8JdgLP0NJ8Bhbwh24DGjJJLI/edit?usp=sharing - доска с задачами
 
 https://docs.google.com/document/d/1PwEAR7Z8IMAU0m1EaqC4IAEwJAoMLXMsFZnd1Q5zehY/edit?usp=sharing - лекция по Agile
+
 https://docs.google.com/document/d/1VGNpmulUjDrFmKUaYADHLeslKz-cNO3eBzi5S9i_e1o/edit?usp=drivesdk
 
 
